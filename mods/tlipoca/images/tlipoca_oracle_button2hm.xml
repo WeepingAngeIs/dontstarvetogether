@@ -1,0 +1,4 @@
+<Atlas><Texture filename="tlipoca_oracle_button2hm.tex" /><Elements>
+<Element name="Oracle_button_choose.tex" u1="0.00244140625" u2="0.84326171875" v1="0.00244140625" v2="0.49755859375" />
+<Element name="Oracle_button.tex" u1="0.00244140625" u2="0.83935546875" v1="0.50439453125" v2="0.99755859375" />
+</Elements></Atlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Atlas>
+    <Texture filename="minimap_icons.tex"/>
+    <Elements>
+        <Element name="tli_soul_altar.png" u1="0.00390625" u2="0.496094" v1="0.0078125" v2="0.992188"/>
+        <Element name="tlipoca_crown.png" u1="0.503906" u2="0.996094" v1="0.0078125" v2="0.992188"/>
+    </Elements>
+    <StraightAlpha>false</StraightAlpha>
+</Atlas>
